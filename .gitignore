@@ -1,2 +1,6 @@
 referencies.txt
 provesEMG_Ninapro_df/s1/*.mat
+# Virtual environments
+.venv/
+venv/
+env/
